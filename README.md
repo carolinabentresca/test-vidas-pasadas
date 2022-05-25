@@ -1,6 +1,6 @@
-# Test-Vidas-Pasadas
-### Java Web / Web Application
-## Proyecto SpringMVC , Realiza un "TEST" , sobre Vidas Pasadas
+## Test-Vidas-Pasadas
+### Proyecto Java Web Application / SpringMVC
+- ####  Realiza un "TEST" , sobre Vidas Pasadas
 ![Vidas Pasadas - Internet Explorer 20_9_2021 15_39_37](https://user-images.githubusercontent.com/88462536/134057501-9a4fe2c9-238d-470a-8b5f-1e9bb2543338.png)
 ![Vidas Pasadas - Internet Explorer 20_9_2021 15_40_18](https://user-images.githubusercontent.com/88462536/134057530-3488a79e-3e61-4533-a618-768ae034559f.png)
 ![Vidas Pasadas - Internet Explorer 20_9_2021 15_40_37](https://user-images.githubusercontent.com/88462536/134057569-3d6f1abc-4a09-48bb-bbdf-fbd0b62a0fc3.png)
